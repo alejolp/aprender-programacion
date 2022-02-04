@@ -9,6 +9,8 @@ Uno de los problemas más comunes al empezar a aprender programación es enfocar
 
 La mejor forma de aprender es haciendo, pero hay que saber decidir qué hacer. No hace falta ser experto en cada cosa. 
 
+> Knowing is not enough; we must apply. Willing is not enough; we must do – Johann Wolfgang von Goethe
+
 # Planes de estudios en universidades de Argentina
 
  - https://www.info.unlp.edu.ar/licenciatura-en-informatica-plan-2021/
@@ -18,12 +20,28 @@ La mejor forma de aprender es haciendo, pero hay que saber decidir qué hacer. N
  - https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/
  - https://dcc.fceia.unr.edu.ar/es/lcc
 
+# Otras referencias
+
+ - https://teachyourselfcs.com orientado a la programación funcional, no de objetos.
+
 
 # Arquitectura de Computadoras (Hardware)
+
+Citas:
+
+ - People who are really serious about software should make their own hardware – Alan Kay, Steve Jobs.
+ - Hay solo dos problemas difı́ciles en computación: coherencia de caché, ponerle nombre a las cosas, y los errores de +/- 1.
+
+Temas:
 
  - Jerarquía de memoria y latencia
  - Localidad de referencias
  - Punto flotante
+
+Articulos:
+
+ - What Every Programmer Should Know About Memory: https://people.freebsd.org/~lstewart/articles/cpumemory.pdf 
+ - Latency Numbers Every Programmer Should Know: https://gist.github.com/jboner/2841832
 
 Libros:
 
@@ -35,6 +53,12 @@ Libros:
 
 # Lenguajes de Programación
 
+Citas:
+
+ - There are only two kinds of languages: the ones people complain about and the ones nobody uses. – Bjarne Stroustrup
+
+Temas:
+
  - Imperativos, 
  - Objetos, 
  - Funcional
@@ -42,6 +66,14 @@ Libros:
  - Expresiones regulares
 
 # Algoritmos y estructuras de datos
+
+Citas:
+
+ - I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships. — Linus Torvalds 17
+
+ - Shortly after the wall fell in 1990, an American and a Russian who had both worked on development of weapons meet. The American asks: “When you developed the Bomb, how were you able to perform such an enormous amount of computing with your weak computers?”. The Russian responses: “We used better algorithms.” – Dinitz Algorithm, Yefim Dinitz
+
+Temas:
 
  - Recursion, búsqueda binaria.
  - Eficiencia, Big Oh
@@ -74,6 +106,13 @@ Libros:
 
 # Diseño de Sistemas
 
+Citas:
+
+ - Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won’t usually need your flowcharts; they’ll be obvious. – Fred Brooks.
+ - A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable – Lamport
+
+Temas:
+
  - Arquitectura de Software
  - SLA
 
@@ -97,6 +136,12 @@ Libros:
  - Structure and Interpretation of Computer Programs, Abelson, Sussman.
 
 # Ingeniería de Software
+
+Citas:
+
+ - Knowing is not enough; we must apply. Willing is not enough; we must do – Johann Wolfgang von Goethe
+
+Temas:
 
  - "Especificación, desarrollo, validación y evolución del software"
  - Interacción con el producto y negocio

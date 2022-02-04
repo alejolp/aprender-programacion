@@ -1,13 +1,22 @@
 
 # Como ser Programador Senior 
 
-El siguiente es un plan de estudios para aprender programacion. NO ESTÁ EN ORDEN.
+El siguiente es un plan de estudios de bases y fundamentos para aprender programacion. NO ESTÁ EN ORDEN.
 
 En general puede llevar de 15 a 25 años aprender (a fondo) todo lo de esta lista.  
 
 Uno de los problemas más comunes al empezar a aprender programación es enfocarse solo en los lenguajes y no enfocarse en los fundamentos y conceptos de base.
 
 La mejor forma de aprender es haciendo, pero hay que saber decidir qué hacer. No hace falta ser experto en cada cosa. 
+
+# Planes de estudios en universidades de Argentina
+
+ - https://www.info.unlp.edu.ar/licenciatura-en-informatica-plan-2021/
+ - https://www.info.unlp.edu.ar/licenciatura-en-sistemas-plan-2021/ 
+ - https://futuros-estudiantes.dc.uba.ar/plan-de-estudios/
+ - https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica/plan-de-estudios
+ - https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/
+ - https://dcc.fceia.unr.edu.ar/es/lcc
 
 
 # Arquitectura de Computadoras (Hardware)
@@ -126,6 +135,9 @@ Maven, NPM, PIP, apt-get
 Libros:
 
  - Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design, Hernandez Michael.
+ - Database design and relational theory: normal forms and all that jazz, Date C J.
+ - Database system concepts, Silberschatz.
+ - An advanced course in database systems: beyond relational databases, by Dietrich, Urban.
 
 # Pruebas y testing
 
@@ -145,10 +157,13 @@ Libros:
  - Multiples CPUs, threads, procesos
  - Tolerancia a fallos, 
  - SLA
+ - Programación de tiempo real
 
 Libros:
 
  - Concurrent Programming: Principles and Practice, Andrews.
+ - Principles of Computer System Design (Volume 1), by by Jerome H. Saltzer, M. Frans Kaashoek. Volume 2 PDF 25
+ - Distributed Systems: Concepts and Design, by Couloris.
 
 # Redes de computadoras
 
@@ -167,7 +182,10 @@ Libros:
 Libros:
 
  - Modern Operating Systems, Tanenbaum.
+ - Operating System Concepts, Silberschatz, Galvin.
+ - Operating Systems, Stallings.
  - Operating Systems: Three Easy Pieces, by Remzi H Arpaci-Dusseau, Andrea C Arpaci-Dusseau
+ - Sistemas operativos distribuidos, Tanenbaum.
 
 # Uso de herramientas
 
@@ -190,7 +208,8 @@ Libros:
 
 # Administracion de Proyectos
 
-PM
+ - Project management
+ - Gantt charts
 
 # Seguridad
 
@@ -206,6 +225,7 @@ Libros:
  - Everyday Cryptography: Fundamental Principles and Applications, Keith Martin
 
 # Cloud Computing
+
  - "Serverless"
  - Escalabilidad
  - Contenedores
@@ -244,6 +264,7 @@ Libros:
  - Maquinas de turing
  - Lambda Calculo
  - Verificación Formal de Programas
+ - Computabilidad y Complejidad
 
 # Logica e Inteligencia Artificial
 

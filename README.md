@@ -11,6 +11,7 @@ La mejor forma de aprender es haciendo, pero hay que saber decidir qué hacer. N
 
 > Knowing is not enough; we must apply. Willing is not enough; we must do – Johann Wolfgang von Goethe
 
+
 # Planes de estudios en universidades de Argentina
 
  - https://www.info.unlp.edu.ar/licenciatura-en-informatica-plan-2021/
@@ -20,9 +21,12 @@ La mejor forma de aprender es haciendo, pero hay que saber decidir qué hacer. N
  - https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/
  - https://dcc.fceia.unr.edu.ar/es/lcc
 
+
 # Otras referencias
 
  - https://teachyourselfcs.com orientado a la programación funcional, no de objetos.
+ - https://roadmap.sh/backend orientado a la programación backend web.
+ - https://roadmap.sh/frontend orientado a la programación frontend web.
 
 
 # Arquitectura de Computadoras (Hardware)
